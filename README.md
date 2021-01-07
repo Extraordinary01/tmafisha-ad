@@ -1,3 +1,3 @@
-# Git and Github testing
+# Ad project for learning.
 
-Simple Vue project for testing Git. Just ignore this repository!
+This project is my sandbox! Please, just ignore it!
